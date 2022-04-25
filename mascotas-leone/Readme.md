@@ -6,4 +6,4 @@ Primer proyecto curso desarrollo web coderhouse de german leone
 
 ## Demo
 
-Use the package manager [link](https://gerleone.github.io/mascotasleone/)
+Use the package manager [link](https://gerleone.github.io/mascotasleoneg/)
