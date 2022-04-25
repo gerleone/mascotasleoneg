@@ -14,7 +14,9 @@ body{
     font-family: "mali";
     src: url(../fonts/Mali-Bold.ttf);
 }
-
+h1{
+    text-align: center;
+}
 h2 {
     text-align: center;
     margin: 1em;
@@ -51,7 +53,7 @@ img{
     width: 5em;
 }
 .header a img:hover {
-    width: 6em;
+    transform:scale(1.1)
 }
 
 .header nav ul {
@@ -74,6 +76,7 @@ img{
 }
 .header nav ul li a:hover{
     font-size: 2.5em;
+    color: #E0DDAA;
 }
 
 
@@ -97,7 +100,7 @@ img{
 
 .main .nosotros {
     background: linear-gradient(rgba(59, 12, 12, 0.068), rgba(0, 0, 0, 0.055)), url("../image/parallax2.jpeg");
-    height: auto;
+    height: 20em;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -110,26 +113,66 @@ img{
     background-size: cover;
 }
 
-.main .nosotros a {
+.main .nosotros div a {
     font-family: "mali";
     text-decoration: none;
     color: #f0c464;
 }
+.main .nosotros a:hover{
+    font-size: 1.3em ;
+}
 
 .main .nosotros div {
     display: flex;
-    flex-direction: column;
-}
-
-.main .mascotas div {
-    display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
 }
 
-.main .mascotas div div {
-    display: inline-block;
+.main .mascotas .mascotaFeliz{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    background: linear-gradient(to bottom, #304353, #E0DDAA );
+}
+.main .mascotas .mascotaFeliz:hover{
+    transform:scale(1.05);
+    background: #f0c464;
+}
+.main .mascotas .porquePaseo{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    background: linear-gradient(to bottom, #304353, #E0DDAA );
+}
+.main .mascotas .porquePaseo:hover{
+    transform:scale(1.05);
+    background: #f0c464;
+}
+
+.main .mascotas .mascotaFeliz {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
     margin: 2em;
+    border: #203239 0.2em solid;
+    border-radius: 1em;
+}
+.main .mascotas .mascotaFeliz div{
+    margin: 0.4em;
+}
+
+.main .mascotas .porquePaseo {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 2em;
+    border: #203239 0.2em solid;
+    border-radius: 1em;
+}
+.main .mascotas .porquePaseo div{
+    margin: 0.4em;
 }
 
 .main .mascotas>div img {
@@ -149,13 +192,18 @@ img{
 
 /*--------Main perro y gato-------*/
 
-.perroGato {
+.main .perroGato {
     display: flex;
     flex-wrap: wrap;
     background-color: #304353;
     color: #E0DDAA;
     font-family: "mali";
     padding: 0.5em;
+    text-align: center;
+}
+.main .perroGato h1{
+    text-align: center;
+    color: #000000;
 }
 
 .main .razas {
@@ -172,10 +220,14 @@ img{
     margin: 0.2em;
     width: 30%;
     height: 49%;
-    background-color: #e0dc7f;
+    background: linear-gradient(to bottom, #304353, #E0DDAA );
     border-radius: 0.4em;
     padding: 0.3em;
     border:solid 0.2em #203239;
+}
+.main .razas div:hover{
+    transform:scale(1.1);
+    background: #f0c464;
 }
 
 .img {
@@ -217,6 +269,9 @@ th, td {
     grid-template-rows: repeat(3,1fr); 
     align-items: center;
     justify-items: center;
+}
+.galeria img:hover{
+    transform:scale(1.1)
 }
 .img1{
     grid-area: img1;
@@ -305,7 +360,7 @@ th, td {
     border-radius: 0.5em;
     padding-top: 2em;
     padding-bottom: 1.4em;
-    background-color: #203239;
+    background: radial-gradient(  #304353,#2c3b47 );
     padding-left: 2em;
 }
 
@@ -348,6 +403,10 @@ button{
     cursor: pointer;
     font-family: "mali";
 }
+button:hover{
+    transform:scale(1.1)
+
+}
 
 /*---footer---*/
 
@@ -366,7 +425,7 @@ button{
     padding: 1em;
 }
 .footer .img:hover{
-    width: 6.2em;
+    transform:scale(1.1)
 }
 
 .footer div ul li a {
@@ -377,7 +436,8 @@ button{
     font-size: 1.2em;
 }
 .footer div ul li a:hover{
-    font-size: 1.5em;
+    font-size: 1.4em;
+    color: #E0DDAA;
 }
 
 .footer .icons img {
@@ -385,7 +445,7 @@ button{
     padding: 0.4sem;
 }
 .footer .icons img:hover{
-    width: 3.5em;
+    transform:scale(1.1)
 }
 
 /*-----------------------------------Media queries----------------------------*/
@@ -402,8 +462,27 @@ button{
         font-size: 11px;
     }
     /*--------main mascotas------------------*/
-    .main .mascotas div{
-        flex-direction: column;    
+    .main .mascotas{
+        display: flex;
+        flex-direction: row; 
+        flex-wrap: nowrap; 
+        align-items: center;
+        justify-content: space-evenly;  
+    }
+    .main .mascotas .mascotaFeliz{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: 40%;
+    }
+    .main .mascotas .porquePaseo{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: 40%;
+    }
+    .main .mascotas>div img{
+        width: 98%;
     }
     #inframeLink{
         display: none;
@@ -457,8 +536,21 @@ button{
         font-size: 9px;
     }
     /*--------main mascotas-----------------------*/
-    .main .mascotas div{
-        flex-direction: column;    
+    .main .mascotas{
+        display: flex;
+        flex-direction: column;   
+    }
+    .main .mascotas .mascotaFeliz{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: auto;
+    }
+    .main .mascotas .porquePaseo{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: auto;
     }
     #inframe  {
         display: none;
