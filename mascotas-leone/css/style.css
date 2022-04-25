@@ -1,0 +1,585 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+body{
+    font-size: 16px;
+}
+@font-face {
+    font-family: "mali";
+    src: url(../fonts/Mali-Bold.ttf);
+}
+
+h2 {
+    text-align: center;
+    margin: 1em;
+}
+
+h3 {
+    text-align: center;
+}
+img{
+    border-radius: 1em;
+    border:solid 0.2em #203239;
+}
+
+
+/*---header/nav---*/
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto ; 
+    font-size: 1em;   
+}
+
+.header {
+    width: 100%;
+    background-color: #203239;
+    padding: 1.3em;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.header a img {
+    width: 5em;
+}
+.header a img:hover {
+    width: 6em;
+}
+
+.header nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.header nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #f0c464;
+    text-shadow: 2px 2px 2px rgb(27, 27, 27);
+    font-family: "mali";
+    font-size: 2em;
+    margin: 1em;
+}
+.header nav ul li a:hover{
+    font-size: 2.5em;
+}
+
+
+
+/*-----------Main-----------*/
+
+.main {
+    background-color: #E0DDAA;
+    font-family: "mali";
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+}
+
+.main section {
+    font-family: "mali";
+    padding: 1em;
+    align-items: center;
+}
+
+.main .nosotros {
+    background: linear-gradient(rgba(59, 12, 12, 0.068), rgba(0, 0, 0, 0.055)), url("../image/parallax2.jpeg");
+    height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main .nosotros a {
+    font-family: "mali";
+    text-decoration: none;
+    color: #f0c464;
+}
+
+.main .nosotros div {
+    display: flex;
+    flex-direction: column;
+}
+
+.main .mascotas div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main .mascotas div div {
+    display: inline-block;
+    margin: 2em;
+}
+
+.main .mascotas>div img {
+    width: 37.5em;
+    height: 18.75em;
+    margin: 0.3em;
+}
+
+.main .paseos iframe {
+    width: 100%;
+    height: 60vh;
+    border-radius: 0.2em;
+}
+#inframeLink{
+    display: none;
+}
+
+/*--------Main perro y gato-------*/
+
+.perroGato {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #304353;
+    color: #E0DDAA;
+    font-family: "mali";
+    padding: 0.5em;
+}
+
+.main .razas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.main .razas div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin: 0.2em;
+    width: 30%;
+    height: 49%;
+    background-color: #e0dc7f;
+    border-radius: 0.4em;
+    padding: 0.3em;
+    border:solid 0.2em #203239;
+}
+
+.img {
+    width: auto;
+}
+
+/*------paseos-------*/
+.mainPaseos {
+    background-color: #E0DDAA;
+    font-family: "mali";
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+}
+table {
+    background-color: #304353;
+    width: 100%;
+    border: 1px solid #11171d;
+    border-radius: 0.3em;
+}
+
+th, td {
+    width: 25%;
+    text-align: center;
+    vertical-align: center;
+    border: 1px solid #182025;
+    border-radius: 0.3em;
+    background-color: #E0DDAA;
+}
+
+.galeria {
+    display: grid;
+    grid-template-areas: 
+        "img1 img2 img3"
+        "img4 img5 img6" 
+        "img7 img8 img9";
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr); 
+    align-items: center;
+    justify-items: center;
+}
+.img1{
+    grid-area: img1;
+    width: 26em;
+    margin: 0.6em;
+}
+.img2{
+    grid-area: img2;
+    width: 26em;
+    margin: 0.6em;
+}
+.img3{
+    grid-area: img3;
+    width: 26em;
+    margin: 0.6em;
+}
+.img4{
+    grid-area: img4;
+    width: 26em;
+    margin: 0.6em;
+}
+.img5{
+    grid-area: img5;
+    width: 26em;
+    margin: 0.6em;
+}
+.img6{
+    grid-area: img6;
+    width: 26em;
+    margin: 0.6em;
+}
+.img7{
+    grid-area: img7;
+    width: 26em;
+    margin: 0.6em;
+}
+.img8{
+    grid-area: img8;
+    width: 26em;
+    margin: 0.6em;
+}
+.img9{
+    grid-area: img9;
+    width: 26em;
+    margin: 0.6em;
+}
+/* .galeria {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.galeria div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.6em;
+    width: 25%;
+}
+
+.galeria div img {
+    margin: 1.2em;
+    width: 100%;
+} */
+
+/*-----contacto----*/
+
+.formulario h1{
+    font-size: 16px;  
+    text-align: left; 
+    padding-bottom: 16px; 
+    color: black;
+}
+.formulario h4{
+    font-size: 16px; 
+    padding-bottom: 16px;
+    color: #000000;   
+}
+
+.formulario {
+    width: 30em;
+    height: auto;
+    margin: 1.4em;
+    border-radius: 0.5em;
+    padding-top: 2em;
+    padding-bottom: 1.4em;
+    background-color: #203239;
+    padding-left: 2em;
+}
+
+input {
+    width: 80%;
+    height: 2.5em;
+    margin: 1em auto;
+    border-radius: 0.8em;
+    padding-top: 2em;
+    padding-bottom: 1.4em;
+    background-color: #E0DDAA;
+    padding-left: 2em;
+}
+textarea {
+    background-color: #E0DDAA; 
+    width: 80%; 
+    height: 9.3em; 
+    border-radius: 0.8em;  
+    margin-top: 0.3em;  
+    padding-left: 0.3em;
+    margin-bottom: 1.4em; 
+    padding-top: 1em;
+}
+label{
+    display: block; 
+    float: center;  
+}
+button{
+    height: 3em; 
+    padding-left: 0.3em;
+    padding-right: 0.3em;   
+    margin-bottom: 1.4em; 
+    margin-top: 0.3em;   
+    text-transform: uppercase;
+    background-color: #f0c464; 
+    border-color: #f0c464; 
+    border-style: solid; 
+    border-radius: 0.8em;  
+    width: 80%;   
+    cursor: pointer;
+    font-family: "mali";
+}
+
+/*---footer---*/
+
+.footer {
+    background-color: #203239;
+    padding: 1em;
+    font-family: "mali";
+    font-size: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .img {
+    width: 5.6em;
+    padding: 1em;
+}
+.footer .img:hover{
+    width: 6.2em;
+}
+
+.footer div ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #f0c464;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    font-size: 1.2em;
+}
+.footer div ul li a:hover{
+    font-size: 1.5em;
+}
+
+.footer .icons img {
+    width: 3.1em;
+    padding: 0.4sem;
+}
+.footer .icons img:hover{
+    width: 3.5em;
+}
+
+/*-----------------------------------Media queries----------------------------*/
+@media (max-width: 1310px) {
+    /*-----Paseos------*/
+    .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9{
+        width: 20em;
+        margin: 0.6em;
+    }
+}
+@media (max-width: 1080px) {
+    /*------menu mobile---------------------*/
+    .menu ul li {
+        font-size: 11px;
+    }
+    /*--------main mascotas------------------*/
+    .main .mascotas div{
+        flex-direction: column;    
+    }
+    #inframeLink{
+        display: none;
+    }
+    /*----main perro y gatos------------------*/
+
+    .main .razas div {
+        display: flex;
+        flex-direction: column;
+        margin: 0.4em;
+        background-color: #e0dc7f;
+        border-radius: 0.6em;
+        padding: 0.3em;
+        border:solid 0.2em #203239;
+    }
+    
+    .main .razas {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    /*----------Paseos--------------------------*/
+    .galeria{
+        grid-template-areas: 
+            "img1 img2" 
+            "img3 img4" 
+            "img5 img6" 
+            "img7 img8" 
+            "img9 .";
+        grid-template-columns:1fr 1fr;
+        grid-template-rows: repeat(5,1fr);
+    }
+    /*------Formulario contacto-------------------*/
+    .formulario{
+        width:80%
+    }
+    .formulario h1{
+        font-size: 13px;
+    }
+    .formulario h4{
+        font-size: 11px;   
+    }
+}
+@media (max-width: 768px) {
+    body{
+        font-size: 12px;
+    }
+    /*------menu mobile---------------------------*/
+    .menu ul li {
+        font-size: 9px;
+    }
+    /*--------main mascotas-----------------------*/
+    .main .mascotas div{
+        flex-direction: column;    
+    }
+    #inframe  {
+        display: none;
+    }
+    #inframeLink{
+        display: inline;
+        color: #000000;
+    }
+    /*---------perro y gatos------*/
+    .main .razas {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .main .razas div {
+        height: auto;
+        width: 60%;
+    }
+    
+    /*------Formulario contacto----*/
+    .formulario{
+        width:80%
+    }
+    .formulario h1{
+        font-size: 11px;
+    }
+    .formulario h4{
+        font-size: 11px;   
+    }
+}
+@media (max-width: 560px) {
+    body{
+        font-size: 11px;
+    }
+    /*------menu mobile----*/
+    .menu ul li {
+        font-size:7px;
+    }
+    /*--------main mascotas-----*/
+    .main .mascotas div{
+        flex-direction: column;    
+    }
+    #inframe  {
+        display: none;
+    }
+    #inframeLink{
+        display: inline;
+        color: #000000;
+    }
+    /*---------perro y gatos------*/
+    .main .razas div {
+        width: 80%;
+    }
+    /*----------Paseos------*/
+    .galeria{
+        grid-template-areas: 
+            "img1"
+            "img2" 
+            "img3" 
+            "img4" 
+            "img5" 
+            "img6" 
+            "img7" 
+            "img8" 
+            "img9";
+        grid-template-columns:1fr;
+        grid-template-rows: repeat(9,1fr);
+    }
+    /*------Formulario contacto----*/
+    .formulario{
+        width:80%
+    }
+    .formulario h1{
+        font-size: 11px;
+    }
+    .formulario h4{
+        font-size: 11px;   
+    }
+}
+@media (max-width:431px){
+    body{
+        font-size: 9px;
+    }
+    /*------menu mobile----*/
+    .menu ul li {
+        font-size: 6px;
+    }
+}
+@media (max-width: 360px) {
+    body{
+        font-size: 8px;
+    }
+    /*------menu mobile----*/
+    .menu ul li {
+        font-size: 5px;
+    }
+    /*--------main mascotas-----*/
+    .main .mascotas div{
+        flex-direction: column;    
+    }
+    #inframe  {
+        display: none;
+    }
+    #inframeLink{
+        display: inline;
+        color: #000000;
+    }
+    /*----------Paseos------*/
+
+    .galeria img{
+        width: 20em;
+    }
+    /*------Formulario contacto----*/
+    .formulario{
+        width:80%
+    }
+    .formulario h1{
+        font-size: 9px;
+    }
+    .formulario h4{
+        font-size: 9px;   
+    }
+}  

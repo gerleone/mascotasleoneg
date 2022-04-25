@@ -1,0 +1,704 @@
+00:55:10	Fernando Muzaber:	sisi
+00:55:27	sebastian silva:	buenas
+00:55:48	Maximiliano Robles Canosa:	ok
+00:58:12	Damian lamberti:	el hyper sirve? tengo Windows y lo utilizo para usar los comandos de mac
+00:58:57	Claudio Moreno:	htper v?
+00:59:10	Claudio Moreno:	hyperv? que tenes una virtual?
+00:59:53	Maximiliano Robles Canosa:	si
+00:59:55	German Ramirez:	sisi
+00:59:56	Lihueel Mansilla:	sisisi
+00:59:56	Fernando Muzaber:	si
+01:00:00	Ezequiel Reynoso:	si
+01:00:28	Damian lamberti:	lo configure en su momento con oh my zsh y tiene como algo de Linux, ejecuto bash y uso los comando de Linux o mac
+01:01:02	Fernando Muzaber:	dir
+01:01:06	[TUTOR] Eduardo Neira:	Damian si estas canchero lo puedes manejar de igual manera pero con los comando de linux
+01:01:33	Damian lamberti:	ah... genial!
+01:01:43	Alexis Demaria:	el viejo ms dos
+01:02:37	[Tutor] Lucas Montero:	Traten de prestar especial atención a los pasos de instalación y navegación entre fichero que veremos pronto. Es muy importante que estemos posicionados en el lugar correcto para que funcione lo que hagamos.
+01:03:08	[TUTOR] Gabriel Alejandro López Trujillo:	☝️
+01:05:09	Maximiliano Robles Canosa:	si
+01:05:56	[TUTOR] Eduardo Neira:	dato: escriben las primeras tres letras de la palabra y presionan tab y les autocompleta
+01:06:15	Bruno Triay:	Tenes el escritorio en onedrive
+01:06:40	Fernando Tamone:	me salio lo mismo, y tengo w11 
+01:06:49	[Coordi]Maca Rodriguez:	clr era creo
+01:07:00	Cristian Mostto:	Profe el comando clear se remplaza por = cls
+01:07:20	[Coordi]Maca Rodriguez:	cls era jaja no clr
+01:08:20	Lucas Althabe:	como se abria? porque llegue recien
+01:08:34	Thiago Torres:	win+r
+01:09:06	Lautaro Maese:	me dice solo user y usuario
+01:09:11	Lautaro Maese:	no gasto
+01:09:29	Lautaro Maese:	claro gracias
+01:10:49	[TUTORA]Solange Mac Intyre:	prueben desktop que todo lo tienen.
+01:11:08	Carla Castellano Gómez:	Yo solo tengo las opciones datos de programas o downloads
+01:11:22	Claudio Moreno:	tenes cambiadas las variables de entorno gas
+01:11:26	[TUTOR] Eduardo Neira:	fíjate la ruta Carla
+01:11:28	Jaqueline Aletti:	no me abre deskot
+01:11:29	Claudio Moreno:	por el uso de one drive
+01:11:32	Lautaro Maese:	me dice que no puede encontrar la ruta especificada
+01:11:45	Jaqueline Aletti:	me dice lo mismo
+01:11:59	Maximiliano Robles Canosa:	yo entré
+01:12:01	Giselle Goenaga:	tienen que poner si o si las mayusculas, por las dudas
+01:12:11	Rocio Fernández Martínez:	"Desktop" no se reconoce como un comando interno o externo, programa o archivo por lotes ejecutable. (?)
+01:12:15	[TUTOR] Gabriel Alejandro López Trujillo:	Importante eso que dice Gise
+01:12:18	Fernando Muzaber:	cd 
+01:12:19	Geronimo Navarro:	Me dice acceso denegado
+01:12:27	[TUTOR] Eduardo Neira:	tiene que anteponer cd
+01:12:33	Mauro Repetto Angelico:	ahora si
+01:12:33	Lautaro Maese:	no me deja tampoco
+01:12:42	Rocio Fernández Martínez:	Gracias!
+01:12:44	German Ramirez:	como se volvió atrás?
+01:12:50	German Ramirez:	volvia*
+01:12:52	[Tutor] Federico Lucero:	cd .. Ger
+01:12:52	Mariano Galvan:	cd ..
+01:12:56	German Ramirez:	gracias
+01:13:20	Alejo Brito:	como se borraba todo?
+01:13:24	Geronimo Navarro:	me sigue diciendo acceso denegado poniendo cd y todo xdxd
+01:13:25	Alexis Demaria:	cls
+01:13:30	[TUTOR] Gabriel Alejandro López Trujillo:	Ingresaron com admin?
+01:13:40	ALLISIO LEONARDO:	ni modo que n i quería}
+01:13:45	[TUTOR] Gabriel Alejandro López Trujillo:	Jaja
+01:13:48	[Coordi]Maca Rodriguez:	Ger mandale captura a tu tutor al chat... Quizás pueda ayudarte mejor
+01:14:18	Geronimo Navarro:	sipi
+01:14:31	Maximiliano Robles Canosa:	si
+01:14:31	Ivan Nicolas Arce:	si
+01:14:32	Eugenio Pereira:	si
+01:14:33	[TUTORA]Solange Mac Intyre:	si
+01:14:35	Damian lamberti:	se ve
+01:14:39	Matias Gaddi:	ii
+01:14:44	Matias Gaddi:	sii
+01:15:32	Maximiliano Robles Canosa:	si
+01:15:34	Ivan Nicolas Arce:	si
+01:15:35	Lihueel Mansilla:	si
+01:15:36	Seba Orozco:	si
+01:15:40	Tomás Vazquez:	si
+01:15:42	Tomás Vazquez:	we
+01:16:01	Tomas Goyeneche:	haces una copia
+01:16:06	Lihueel Mansilla:	copiamos la carpeta
+01:16:07	Estanislao Elías Varela Lucius:	en otra carpeta
+01:16:08	Seba Orozco:	backup
+01:16:09	Claudio Moreno:	sii esto esta de masss jajaja las veces que quise volver para atrás y no pude
+01:16:13	Maximiliano Robles Canosa:	lo copio en otra carpet o le cambio el nombre
+01:16:15	Claudio Moreno:	solo sacando el archivo para afuera jaja
+01:16:20	Lucas Gonzalez:	Guardo todo el proyecto en una carpeta aparte con las versiones
+01:16:38	[TUTOR] Eduardo Neira:	Esta bien esa forma Lucas
+01:16:54	[TUTOR] Eduardo Neira:	solo que ahora con git ya no necesitaras duplicar una carpeta
+01:17:05	Claudio Moreno:	eso jajaj
+01:17:13	Claudio Moreno:	con esto las versiones se controlan solas
+01:18:15	Maximiliano Robles Canosa:	si
+01:18:15	Claudio Moreno:	sisi
+01:18:15	Seba Orozco:	si
+01:18:16	Lihueel Mansilla:	sii
+01:18:16	Rafael Gini:	si
+01:18:16	Lucas Gonzalez:	Sisi
+01:18:16	Ivan Nicolas Arce:	si
+01:18:19	Eugenio Pereira:	si
+01:18:53	Seba Orozco:	Puedo darle nombre a la versión?
+01:19:05	[TUTOR] Gabriel Alejandro López Trujillo:	Si Seba
+01:19:12	[TUTOR] Gabriel Alejandro López Trujillo:	En breve vamos a eso
+01:19:18	Seba Orozco:	Bien
+01:19:44	[TUTOR] Gabriel Alejandro López Trujillo:	Es como generar líneas de tiempo con las distintas versiones 😎
+01:20:54	Geronimo Navarro:	literalmente es lo que hacen los juegos como minecraft y eso jajshj
+01:20:56	[TUTORA]Solange Mac Intyre:	Multiverso de su proyecto
+01:21:19	[Tutor]Matías Ezequiel Espinosa:	Van a ser todos unos Doctores Strange
+01:21:21	Alexis Demaria:	flash en sus mejores epocas
+01:21:31	[TUTOR] Gabriel Alejandro López Trujillo:	*Inserte aca meme de Thanos*
+01:22:04	[TUTORA]Solange Mac Intyre:	o de los 3 Spiderman señalándose
+01:22:46	Tomás Vazquez:	osea un repositorio es una versión?
+01:22:51	Maximiliano Robles Canosa:	si
+01:22:53	Lihueel Mansilla:	sisi
+01:22:54	Tomás Vazquez:	si si
+01:22:55	Tomás Vazquez:	es el gatito
+01:22:57	Ariel Tomolioni:	si
+01:23:01	Jairo Mayoral:	si
+01:23:04	Jairo Mayoral:	a full
+01:23:04	Usuario de Zoom:	Sisis
+01:23:21	Seba Orozco:	si
+01:23:24	Maximiliano Robles Canosa:	me bajo MODs de juegos de ahi, je
+01:23:24	Usuario de Zoom:	Copias los códigos
+01:23:29	Fernando Muzaber:	es codigo abierto todo?
+01:23:37	[Tutor]Matías Ezequiel Espinosa:	Un repositorio es donde vos alojas los progresos de tu proyecto Tomas
+01:23:47	[TUTORA]Solange Mac Intyre:	El repositorio es el proyecto completo Tomas
+01:24:02	Lihueel Mansilla:	perfecto
+01:24:03	Tomás Vazquez:	gracias tutores♥
+01:24:04	Fernando Muzaber:	genial
+01:24:25	Tomás Vazquez:	son de los mismos devs git y github por mas q no son lo mismo?
+01:24:43	Gastón Michelan:	https://git-scm.com/
+01:25:35	[Tutor]Matías Ezequiel Espinosa:	No Tomi
+01:25:40	Damian lamberti:	listo
+01:25:44	Thiago Torres:	qeu checkeamos_
+01:25:46	Thiago Torres:	??
+01:25:50	Thiago Torres:	hay unas opciones para poner
+01:25:59	ALLISIO LEONARDO:	next a todo? jajaj
+01:26:01	Claudio Moreno:	ggithub es de MS
+01:26:04	Tomás Vazquez:	claro claro gracias
+01:26:05	[TUTOR] Gabriel Alejandro López Trujillo:	No, son hermanitos pero no de sangre jaja
+01:26:05	[Tutor]Matías Ezequiel Espinosa:	Chequen Wikipedia jaja
+01:26:14	ALLISIO LEONARDO:	no me la contes..
+01:26:19	Jairo Mayoral:	47,9 mb
+01:26:22	Joaquin HGM Gonzalez Masciocchi:	ah okok
+01:26:22	Lucas Althabe:	uh que suerte que avisaste
+01:27:43	Lucas Santiago Escuti:	esta tardando un toque bajarlo
+01:28:03	[Coordi]Maca Rodriguez:	en la carpeta de drive de la plataforma hay una carpeta con tutoriales de instalación!!! pueden buscar git para su sistema operativo si se llegan a perder o lo necesitan hacer luego de la clase
+01:28:26	[Tutor]Matías Ezequiel Espinosa:	☝️
+01:28:36	[TUTOR] Gabriel Alejandro López Trujillo:	https://drive.google.com/drive/u/0/folders/1bD841oX8Lbc6uOgoTCPHkX3JF3cRxzcF carpeta de tutoriales de instalación 👈
+01:28:36	Ezequiel Funes:	Gracias
+01:29:25	Mariano Galvan:	y el associate sh files?
+01:29:44	[Tutor]Matías Ezequiel Espinosa:	NONO, COMO TE LO MOSTRABA ASI NOMAS
+01:29:47	Lucas Althabe:	no me parece eso
+01:30:18	Carla Castellano Gómez:	Podes volver un paso?
+01:30:23	Geronimo Navarro:	podes volver a la anterior porfa gaston
+01:30:24	Tomás Vazquez:	sii
+01:30:25	Lihueel Mansilla:	sisi
+01:30:27	Jairo Mayoral:	si
+01:30:31	Jairo Mayoral:	floyd
+01:30:34	Tomás Vazquez:	cuando fue lo de floyd claro
+01:31:00	Damian lamberti:	pffff
+01:31:02	[Tutor]Matías Ezequiel Espinosa:	Lo mismo en las BIOS
+01:31:06	Damian lamberti:	jajaja
+01:31:39	Perrone Tomas Agustin:	ya me perdi
+01:31:45	Tomás Vazquez:	uu
+01:31:46	Tomás Vazquez:	para
+01:31:47	Tomás Vazquez:	el proximo
+01:31:50	Tomás Vazquez:	no tiene tick
+01:32:06	Michel Ramirez:	mientras no se instale ningún buscador ni programas raros extras, full siguiente jaja
+01:32:08	Tomás Vazquez:	joya gasti
+01:32:10	[Tutor]Matías Ezequiel Espinosa:	como cuando instalan el AGE
+01:32:13	[Tutor]Matías Ezequiel Espinosa:	next
+01:32:23	Fernando Muzaber:	jajajja
+01:32:36	Damian lamberti:	aguante el age!
+01:33:17	Lihueel Mansilla:	ok
+01:33:19	Lucas Althabe:	toco que si cuando me aparece launch git bash?
+01:33:20	Maximiliano Robles Canosa:	si
+01:33:23	Seba Orozco:	listo!
+01:33:27	Claudio Moreno:	pero al abrir una es como abrir la otra?
+01:33:28	Carla Castellano Gómez:	pero ese bash no estaba seleccionado en la instalacion
+01:33:50	Francis Diaz:	Ya se instalo y me dio 2 opciones
+01:34:06	Francis Diaz:	Gracias
+01:34:39	Mariano Galvan:	Git laburante
+01:34:43	Tomás Vazquez:	aajajjajajaja
+01:35:09	Tomás Vazquez:	si 
+01:35:10	Claudio Moreno:	sip
+01:35:11	Seba Orozco:	si
+01:35:11	German Ramirez:	sisi
+01:35:12	Maximiliano Robles Canosa:	si
+01:35:24	[Tutor]Matías Ezequiel Espinosa:	presten atencio aca
+01:36:02	Lautaro Maese:	esta abriendo todavia
+01:36:13	[Coordi]Maca Rodriguez:	importante primero abrir la carpeta con el visual y luego la consola... Sino no los situa dentro
+01:36:19	Maximiliano Robles Canosa:	está apuntando adentro de esa carpeta
+01:36:22	Fernando Muzaber:	a la carpeta nueva
+01:36:22	Seba Orozco:	a la nueva carpeta creada
+01:36:55	Lucas Althabe:	como abriste la consola?
+01:37:06	Alexis Demaria:	Ctrl +  Ñ
+01:37:07	[TUTOR] Eduardo Neira:	ctrtl + ñ
+01:37:54	Claudio Moreno:	jajaja ls como en linux
+01:38:05	[TUTOR] Gabriel Alejandro López Trujillo:	git --version
+01:38:07	[Tutor]Matías Ezequiel Espinosa:	git --version
+01:38:18	[Coordi]Maca Rodriguez:	hay que respetar los espacios en la terminal! Sino da error
+01:38:28	Lucas Gonzalez:	me tira error
+01:38:28	[TUTOR] Gabriel Alejandro López Trujillo:	☝️
+01:38:40	Matias Rabinovich:	los que ya teníamos instalado, necesitamos la ultima versión?
+01:38:46	Thiago Torres:	como terminal me sale powershell esta bien igual?
+01:38:46	[Coordi]Maca Rodriguez:	no mati
+01:38:47	[Tutor]Matías Ezequiel Espinosa:	copia y pega el comando que pasamos por aca lucas
+01:38:53	Francis Diaz:	me sale git en color amarillo, es lo mismo no?
+01:38:54	Lucas Gonzalez:	sisi lo copié tal cual
+01:38:58	[TUTOR] Eduardo Neira:	git --version
+01:38:58	[Coordi]Maca Rodriguez:	Lucas mandale captura a tu tutor asi puede ver
+01:39:09	Claudio Moreno:	a mi no me anda porque tengo power Shell lpm
+01:39:23	[TUTOR] Eduardo Neira:	cambia la terminal CLau
+01:39:29	Thiago Torres:	en donde te dice cmd me aparece powershell
+01:39:42	Claudio Moreno:	es que me abrió directamente el power Shell en vss
+01:39:44	[TUTOR] Eduardo Neira:	justo donde tiene el mouse el profe
+01:39:53	Rafael Gini:	muted
+01:39:54	Maximiliano Robles Canosa:	estás muteado, gas
+01:39:55	[TUTOR] Eduardo Neira:	seleccionen cmd
+01:39:55	Thiago Torres:	estas muteado
+01:39:56	[Tutor]Matías Ezequiel Espinosa:	revisa si podes cambiarlo Thiago, debería dejarte
+01:39:58	Lihueel Mansilla:	mute
+01:39:58	Lucas Althabe:	muted
+01:40:02	[Tutor]Matías Ezequiel Espinosa:	ME QUEDE SORDOOO
+01:40:02	Lihueel Mansilla:	profee
+01:40:02	Rafael Gini:	muted
+01:40:03	Maximiliano Robles Canosa:	muteado
+01:40:07	Fernando Laxi:	muted
+01:40:07	Fernando Tamone:	esta muted profe
+01:40:07	Ezequiel Reynoso:	no se escucha
+01:40:09	Bautista Morelli:	muteadoo
+01:40:10	Joaquin HGM Gonzalez Masciocchi:	mutrd
+01:40:11	Michel Ramirez:	muteado profe
+01:40:23	Geronimo Navarro:	gaston podrias explicar lo de hace 3 min ??
+01:40:29	Thiago Torres:	le cambias el nombre y le pones cmd>
+01:40:30	Thiago Torres:	?
+01:40:46	[TUTOR] Gabriel Alejandro López Trujillo:	Con los comandos escritos en la consola hay que ser super precisos. Un espacio, una letra de mas, un error de cualquier tipo escribiendo los comandos les va a tirar error o pueden romper todo. Asi que super atentos a lo que hace el profe
+01:41:13	Claudio Moreno:	siii ahí salió
+01:41:18	Claudio Moreno:	esta git bash ymb
+01:41:26	Marcelo Bustos:	no me aparece cmd
+01:41:32	Fernando Muzaber:	command prompt sale
+01:41:41	Gonzalo lynch:	a mi tampoco
+01:41:54	Lucas Gonzalez:	Ese es mi problema, tengo powershell en vez de cmd no sé por qué
+01:42:05	Seba Orozco:	Es command prompt
+01:42:31	Eugenio Pereira:	lo cambian en la flecha de al lado de cmd, ponen command prompt
+01:43:32	Seba Orozco:	lo hacemos también nosotros?
+01:43:50	[Tutor] Federico Lucero:	si seba
+01:43:52	Leonardo Sanchez:	no puedo serguirlo, no tengo cmd
+01:44:00	[Tutor] Lucas Montero:	si seba, pero prestemos atención a los pasos aho
+01:44:02	Geronimo Navarro:	ya me estrese porque no me deja hacer la nada mi pc jajaja
+01:44:03	[TUTORA]Solange Mac Intyre:	git config -- global user.name "..."
+01:44:06	Carla Castellano Gómez:	espacio después del name?
+01:44:12	Rafael Gini:	lo hacemos?
+01:44:15	Mariano Galvan:	se puede usar mayusculas para el nombre?
+01:44:16	Thiago Torres:	todo jutno ponemos?
+01:44:21	[TUTOR] Eduardo Neira:	leo que terminal tienes en tu computadora
+01:44:22	[TUTOR] Eduardo Neira:	?
+01:44:29	[Tutor] Federico Lucero:	SI Mariano
+01:44:33	[TUTOR] Gabriel Alejandro López Trujillo:	Si deciden hacerlo háganlo en la carpeta que crearon
+01:44:33	German Ramirez:	en minúscula no?
+01:44:37	[TUTOR] Gabriel Alejandro López Trujillo:	No en su proyecto
+01:44:41	Thiago Torres:	espacio entre el nombre y el apellido?
+01:44:43	Seba Orozco:	acentos?
+01:44:44	Thiago Torres:	o todo junto
+01:44:45	[Coordi]Maca Rodriguez:	pueden usar espacio entre nombre y apellido
+01:44:51	[TUTOR] Gabriel Alejandro López Trujillo:	Se Puede Thiago!
+01:44:51	Seba Orozco:	Ok
+01:45:19	[TUTOR] Gabriel Alejandro López Trujillo:	git config --global user.name "..."
+01:45:28	[Tutor]Matías Ezequiel Espinosa:	git config --global user.name "Pepita la pistolera"
+01:45:30	Damian lamberti:	no tiene que devolver nada?
+01:45:35	[Coordi]Maca Rodriguez:	no debe aparecer nada, solo la ruta de la carpeta nuevamente
+01:45:36	[Tutor] Lucas Montero:	te recomiendosnake_case o camelCase  thago
+01:45:43	Lucas Althabe:	se puede modificar porque lo escribi mal ajaja
+01:45:45	Joaquin HGM Gonzalez Masciocchi:	cual era el primer paso?
+01:45:49	Thiago Torres:	uh ya lo hice mall
+01:45:52	Thiago Torres:	se puede repetir?
+01:45:57	Joaquin HGM Gonzalez Masciocchi:	me tira todo en rojo
+01:45:59	[TUTOR] Gabriel Alejandro López Trujillo:	Dami! Si no te tira error, y no pasa nada funciono todo ok
+01:46:06	[Tutor] Federico Lucero:	Si lucas, volves a tirar el comando
+01:46:08	[TUTOR] Eduardo Neira:	tranqui thiago que se puede hacer otra vez
+01:46:14	Thiago Torres:	joya
+01:46:19	[Coordi]Maca Rodriguez:	joaco pasale captura a tu tutor para que pueda ayudarte
+01:46:31	Tomás Vazquez:	cuando pongo el git --version en mi consola
+01:46:33	[TUTOR] Gabriel Alejandro López Trujillo:	git config --global user.name "Thiago Torres"
+01:46:34	Thiago Torres:	sin comollas?
+01:46:35	Tomás Vazquez:	me tira error, com oq no reconoce
+01:46:42	Lucas Althabe:	como vuelvo atras??
+01:46:47	Damian lamberti:	listo
+01:46:51	[TUTOR] Gabriel Alejandro López Trujillo:	Tomas! Estas haciendo uso de todo el comando?
+01:46:59	Tomás Vazquez:	al priincipio
+01:47:03	Tomás Vazquez:	en git --version
+01:47:11	Tomás Vazquez:	uu
+01:47:13	[TUTOR] Eduardo Neira:	tomas envíame por privado y lo vemos
+01:47:16	Claudio Moreno:	hay que reiniciar vss para que levante
+01:47:17	Patricio Solari:	consulta no habrá que reiniciar la pc?
+01:47:19	Claudio Moreno:	el git
+01:47:21	Patricio Solari:	para que instale bien?
+01:47:25	Tomás Vazquez:	si si,se instalo mal seguro
+01:47:26	Lucas Althabe:	como se volvia para atras?
+01:47:30	Lucas Althabe:	porque toque algo mal
+01:47:31	Claudio Moreno:	si si a mi me pasó
+01:47:35	Claudio Moreno:	no reinicien la pc
+01:47:37	Lautaro Maese:	podes mostrar otra vez por favor
+01:47:37	Matias Gaddi:	repetís favor
+01:47:38	Claudio Moreno:	es solo reiniciar vss
+01:47:40	Claudio Moreno:	vsc
+01:47:43	[Tutor] Federico Lucero:	Ese que dice Clau es importante, si instalaron el git con el vsc abierto
+01:47:46	Franco Ortega:	hice lo del nombre y mail pero cuando doy enter no pasa nada
+01:47:53	Tomás Vazquez:	eeeeee
+01:47:54	Tomás Vazquez:	ahi reinicie
+01:47:55	Tomás Vazquez:	vsc
+01:47:58	Tomás Vazquez:	y funcionó
+01:48:00	[TUTOR] Eduardo Neira:	no devuelve nada Fran
+01:48:03	[Tutor] Lucas Montero:	buenísimo!
+01:48:09	Franco Ortega:	ah joya
+01:48:14	[TUTOR] Eduardo Neira:	después hay otro comando para consultar lo que ingresaron
+01:48:18	[TUTOR] Eduardo Neira:	ya vamos a llegar
+01:48:22	Ivan Nicolas Arce:	si
+01:48:23	daniela soto:	sis
+01:48:24	German Ramirez:	si
+01:48:24	Maximiliano Robles Canosa:	si
+01:48:27	Ariel Tomolioni:	sip
+01:48:40	Maximiliano Robles Canosa:	puse si en la terminal y me salió algo raro, je
+01:48:41	Damian lamberti:	los que tengan mac y tengan problemas de permisos, les recomiendo poner "sudo" antes de ejecutar los comandos
+01:49:00	Maximiliano Robles Canosa:	como hago para salir de ahí?
+01:49:01	Perrone Tomas Agustin:	Lo reinicie y después lo hago con la grabacion
+01:49:19	daniela soto:	dice git dos veces
+01:49:22	Gonzalo lynch:	gitgit pusiste
+01:49:22	German Ramirez:	dos git
+01:49:23	Seba Orozco:	tenes dos git
+01:49:29	[TUTOR] Eduardo Neira:	wq
+01:49:29	Lucas Althabe:	como era el de el mail?
+01:49:30	Ariel Tomolioni:	pusitste 2 veces git
+01:49:40	Maximiliano Robles Canosa:	puse si en la terminal y me salió algo raro. como hago para salir de ahí?
+01:49:42	Claudio Moreno:	muestra toda esa info
+01:49:48	Claudio Moreno:	se ve que es un tema de la versión de git
+01:49:49	Fernando Muzaber:	idem
+01:49:55	Carla Castellano Gómez:	A mi me sale lo mismo
+01:49:55	Claudio Moreno:	capaz se actualizó y muestra algo diferente
+01:49:56	Cristian Mostto:	en las ulitmas dos lineas
+01:49:58	Cristian Mostto:	te muestra
+01:49:59	Marcos Mosquera:	me sale lo mismo
+01:50:01	Fernando Tamone:	dele enter profe
+01:50:02	Rocio Fernández Martínez:	Me paso lo mismo.
+01:50:03	Lihueel Mansilla:	me sale lo mismo
+01:50:05	Ivan Nicolas Arce:	me sale igual
+01:50:06	Fernando Tamone:	le da enter y sigue mostrando info
+01:50:09	Ariel Tomolioni:	a mi tambien
+01:50:11	Rodrigo Valdez:	me hace lo mismo
+01:50:12	Alexis Demaria:	tengo lo mismo
+01:50:20	[TUTOR] Gabriel Alejandro López Trujillo:	Enter metralla
+01:50:25	Maximiliano Robles Canosa:	puse "si" en la terminal y me salió algo raro. como hago para salir de ahí?
+01:50:29	[TUTORA]Solange Mac Intyre:	q o ctrl+c para sali
+01:50:35	Lautaro Maese:	como se hace para que salgan los datos?
+01:50:43	Lautaro Maese:	porque aprieto enter y no me sale
+01:50:48	[TUTOR] Eduardo Neira:	git config --list
+01:50:50	[Tutor]Matías Ezequiel Espinosa:	vas a tener que darle a donde esta cmd de nuevo
+01:50:50	Gerónimo García Merlo:	ctrl z
+01:50:51	Maximiliano Robles Canosa:	gracias!
+01:50:52	César Medina:	Usen git config --list --show-origin
+01:51:03	Lihueel Mansilla:	joya
+01:51:22	[TUTORA]Solange Mac Intyre:	con q deberían salir de ahí
+01:51:41	Damian lamberti:	ahí esta... me funco de 10
+01:51:46	Nicolas Balcedo:	como se sale del list _
+01:52:06	Nicolas Balcedo:	me salia lo mismo y no me deja
+01:52:18	Claudio Moreno:	cntrl + c
+01:52:20	Claudio Moreno:	y cierra
+01:52:21	Nicolas Balcedo:	oka
+01:52:48	Tomás Vazquez:	asi como nos pusimos un mail
+01:52:55	Tomás Vazquez:	nos podemos poner un name?
+01:53:14	[Tutor] Lucas Montero:	si Tomas
+01:53:18	[TUTOR] Eduardo Neira:	git config --global user.name "tu nombre aquí"
+01:53:32	[TUTOR] Gabriel Alejandro López Trujillo:	Tomas, el comando que tiramos antes del mail era para colocarte el nombre
+01:53:44	[TUTOR] Gabriel Alejandro López Trujillo:	El que compartio Ed  ☝️
+01:54:05	Tomás Vazquez:	gracias genios
+01:54:13	[TUTOR] Eduardo Neira:	y después para el mail es git config --global user.email tu@email.com
+01:54:42	[Tutor]Matías Ezequiel Espinosa:	no hagan esto en sus casas
+01:54:54	Tomás Vazquez:	ya con eso tengo mi 'identidad' guardada en vsc?
+01:55:02	[Tutor]Matías Ezequiel Espinosa:	si
+01:55:14	Tomás Vazquez:	no tiene contraseña? xd
+01:56:19	[TUTOR] Eduardo Neira:	no Tomi
+01:56:30	Rafael Gini:	cd
+01:56:30	Lihueel Mansilla:	cd neuquenTur
+01:56:31	Rodrigo Valdez:	cd?
+01:56:31	Fernando Muzaber:	cd ..
+01:56:33	Lucas Althabe:	volviendo para atras
+01:56:33	Eugenio Pereira:	cd neuquenTur
+01:56:34	Gonzalo lynch:	cd
+01:56:51	Rafael Gini:	bien
+01:56:53	Lihueel Mansilla:	sisi
+01:56:54	Maximiliano Robles Canosa:	si
+01:57:12	[TUTOR] Eduardo Neira:	Edwin Jesús Aguilar Cortés, Elkin Darío González Martínez, Emilio Duran y Enzo Sicurani están?
+01:58:08	Tomás Vazquez:	esto está buenísimo para cuando rompemos todo sin querer XD
+01:58:17	Lucas Gonzalez:	Ahora no puedo salir de la opción de list config 🤦
+01:58:41	Rafael Gini:	lo hacemos?
+01:58:44	[Coordi]Maca Rodriguez:	Lucas cerrá y volve a abrir la terminal
+01:58:45	Mariano Galvan:	lo hacemos?
+01:58:47	Thiago Torres:	me tira error
+01:58:56	Thiago Torres:	git : El término 'git' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de       acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.En línea: 1 Carácter: 1+ git CODERHOUSE+ ~~~    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException    + FullyQualifiedErrorId : CommandNotFoundException
+01:59:20	Lucas Althabe:	lo hacemos sobre nuestro proyecto ya?
+01:59:23	[TUTOR] Eduardo Neira:	thiago fíjate de ejecutar primero git --version
+01:59:25	[TUTOR] Gabriel Alejandro López Trujillo:	Importante, no trabajen sobre el proyecto de momento. Luego lo hacen con calma viendo el video de la clase
+01:59:38	[TUTOR] Eduardo Neira:	si no te tira una versión es porq no esta instalado
+01:59:49	[TUTOR] Gabriel Alejandro López Trujillo:	Con un errorcito pueden romper todo, asi que atentis a la clase y luego lo hacen con calma
+01:59:57	Giselle Goenaga:	una pregunta. Dentro de la carpeta de nuestro proyecto, conviene ponerle git directamente con git init o hacer la carpeta adentro con git init + nombre de carpeta?
+01:59:59	[Coordi]Maca Rodriguez:	Hagan una copia de la carpeta del proyecto para estar seguro!!!
+02:00:04	[Tutor]Matías Ezequiel Espinosa:	ASISTENCIA PASADA 🆗
+02:00:32	[TUTOR] Gabriel Alejandro López Trujillo:	Gise, lo haces posicionada ya dentro de la carpeta en visual
+02:00:34	Lihueel Mansilla:	sii
+02:00:41	Giselle Goenaga:	buenisimio
+02:00:51	[Tutor]Matías Ezequiel Espinosa:	SIN SEGUIMIENTO - (U)NTRACKED
+02:02:42	daniela soto:	por eso ahora sale "a"?
+02:02:49	daniela soto:	en index
+02:02:59	[Coordi]Maca Rodriguez:	Si dani
+02:03:19	Thiago Torres:	como era el comando para transformarlo en git??
+02:03:27	[TUTOR] Eduardo Neira:	git init
+02:03:33	daniela soto:	gcias
+02:03:34	Lihueel Mansilla:	joyaa
+02:03:41	Francis Diaz:	si o si le punto dsp del add?
+02:03:48	[TUTOR] Gabriel Alejandro López Trujillo:	git initgit status git add .
+02:03:57	[TUTOR] Eduardo Neira:	si Francis
+02:04:01	[TUTOR] Gabriel Alejandro López Trujillo:	Fran! Con el . guardas toooodos los doc
+02:04:10	[TUTOR] Eduardo Neira:	ya que es parte del comando
+02:04:11	[TUTOR] Gabriel Alejandro López Trujillo:	Sin el punto tenes que especificar que queres guardar
+02:04:13	[Coordi]Maca Rodriguez:	Si queres guardar todos los cambios si fran.. Sino tenes que tipiar uno por uno los archivos
+02:04:19	[TUTOR] Eduardo Neira:	si no estarías colocando el comando incorrecto
+02:04:19	[TUTOR] Gabriel Alejandro López Trujillo:	asi que si, siempre con el "."
+02:04:26	Thiago Torres:	hago git init y me hace una carpeta nueva
+02:04:29	Francis Diaz:	Perfecto
+02:04:37	Rafael Gini:	git add .
+02:04:40	Lihueel Mansilla:	git add
+02:04:40	German Ramirez:	git add
+02:04:41	Seba Orozco:	git add
+02:04:43	Geronimo Navarro:	volver a agregarlo con git add
+02:04:53	[TUTOR] Gabriel Alejandro López Trujillo:	Thiago, estas posicionado en la carpeta de tu proyecto?
+02:05:22	[TUTOR] Gabriel Alejandro López Trujillo:	Te recomiendo mucho ver la clase y luego lo haces con calma. Asi no te pierdes todito intentando recrear lo que hace el profe
+02:05:23	[Coordi]Maca Rodriguez:	cómo se llama esa carpeta??? .git?
+02:05:29	Thiago Torres:	si! lo abri con vss
+02:05:57	Maximiliano Robles Canosa:	si si
+02:06:40	Maximiliano Robles Canosa:	git add
+02:06:40	Thiago Torres:	ahi me funciono
+02:08:30	[Coordi]Maca Rodriguez:	piensen esto como el armado de un envio… Con status veo que debo enviar, con add meto los elementos en la caja, y con commit cierro el paquete y coloco el remitente... La próxima clase vemos como enviarlo al correo jaja
+02:08:52	Maximiliano Robles Canosa:	si si
+02:08:53	Seba Orozco:	si
+02:08:53	Rafael Gini:	perfecto
+02:08:54	Lihueel Mansilla:	si trabajas en equipo asi podes saber quien hizo cada cambio no?
+02:08:54	[TUTOR] Gabriel Alejandro López Trujillo:	La consola le muestra tooodo lo que necesitan saber, incluso cuando te tira error te suele especificar cual es o que lo provoca. Asi que no se asusten, leer les va a decir en muchas ocasiones como solucionar
+02:08:59	Thiago Torres:	lo ultimo me perdi un poquito
+02:09:01	daniela soto:	no entendí mucho lo de head master
+02:09:01	Rodrigo Valdez:	entiendo
+02:09:02	Matias Gaddi:	ii
+02:09:04	Lucas Althabe:	ósea cada vez que editamos algo como que lo guardamos en git también
+02:09:06	Thiago Torres:	el tema de ponerle la A
+02:09:11	Matias Gaddi:	si
+02:09:21	Maximiliano Robles Canosa:	oks
+02:10:22	Seba Orozco:	Se puede cambiar la configuración inicial? es decir, cambiar el correo por ejemplo
+02:10:31	[Tutor]Matías Ezequiel Espinosa:	sisi
+02:11:38	[Tutor] Federico Lucero:	Agostina Blazquez - Agustin Meneces - Agustina Suarez - Agustin Fasulo - Alan Da Cruz - Alejo Altamirano - Arianne Ramírez Pécora - Axel Duran- Axel Tosi - Candela Zeida  Estan?
+02:12:32	Fernando Tamone:	hoy somos bastante menos, se nota que es finde largo jajaja 
+02:12:36	[TUTOR] Gabriel Alejandro López Trujillo:	https://docs.google.com/document/d/18TgOaz9-3gEFlcJhgpQm7N0cYseTV48OPnmLtRHF3Ao/edit#heading=h.joyrnzwguq04👈 les dejo esta guía con todooos los comandos con la descripción de lo que hacen
+02:12:40	[TUTOR] Gabriel Alejandro López Trujillo:	🥰
+02:13:03	[TUTOR] Gabriel Alejandro López Trujillo:	Fer! Si, muchos no asistieron jaja
+02:13:07	Thiago Torres:	musiquita de espera
+02:13:37	Fernando Tamone:	mñna hay after?
+02:14:21	[Coordi]Maca Rodriguez:	https://git-scm.com/doc 👈🏼 Documentación oficial!Es muy importante que lean la info oficial de git, ahí está todo... Errores, soluciones, info, etc... Está en ingles... Pero con botón derecho traducir la ponen en en castellano
+02:14:34	Tomás Vazquez:	mensaje de love para los tutores profe y coordinadora, la posta q es excelente la metodología q usan acá en coder y lo acompañado q siento q es todo el proceso del curso. Alta inversión está siendo, graciasss
+02:14:34	[TUTOR] Gabriel Alejandro López Trujillo:	☝️
+02:15:11	[Coordi]Maca Rodriguez:	🥰 Gracias Tomi
+02:15:15	[TUTOR] Gabriel Alejandro López Trujillo:	Nos contenta mucho que estes teniendo una linda experiencia 🥰
+02:15:17	Franco Ortega:	pikito 3
+02:15:19	[TUTOR] Gabriel Alejandro López Trujillo:	Gracias Tomi!
+02:15:19	Thiago Torres:	como agregaba a los demas de U a A?
+02:15:30	[Coordi]Maca Rodriguez:	git add .
+02:15:32	Rafael Gini:	profe pasa la playlist!
+02:15:35	Gastón Michelan:	All my love a ese mensaje
+02:16:01	Thiago Torres:	git add. index.html?
+02:16:11	Francis Diaz:	temaikennnn
+02:16:12	[TUTOR] Eduardo Neira:	en ese caso seria sin el punto
+02:16:19	Thiago Torres:	ok
+02:16:22	[TUTOR] Eduardo Neira:	solo agregarías el archivo index
+02:16:35	[TUTOR] Eduardo Neira:	para agregarlos todos colocas git add .
+02:16:41	[TUTOR] Gabriel Alejandro López Trujillo:	Cuando vas a especificar algún doc en particular es sin el puntito
+02:16:54	[Coordi]Maca Rodriguez:	https://git-scm.com/doc 👈🏼 Documentación oficial!Es muy importante que lean la info oficial de git, ahí está todo... Errores, soluciones, info, etc... Está en ingles... Pero con botón derecho traducir la ponen en en castellano
+02:17:04	[TUTOR] Gabriel Alejandro López Trujillo:	☝️
+02:17:06	Thiago Torres:	C:\Users\54222\Desktop\Thiago!\Programacion\CoderHouse>git add index.htmlfatal: pathspec 'index.html' did not match any files
+02:17:09	Thiago Torres:	me tira eso
+02:17:43	Rodrigo Valdez:	yo entiendo pero no para que usarlo
+02:18:00	[TUTOR] Eduardo Neira:	hace un git status
+02:18:06	[TUTOR] Eduardo Neira:	Thiago
+02:18:20	Thiago Torres:	a ver voy
+02:18:23	Maximiliano Robles Canosa:	si si
+02:18:27	[TUTOR] Gabriel Alejandro López Trujillo:	Sisi, se escucha
+02:18:40	Damian lamberti:	banco fuerte a paint
+02:19:00	[TUTOR] Gabriel Alejandro López Trujillo:	re útil para cosas rápidas jaja
+02:19:07	Damian lamberti:	seeee
+02:19:09	Thiago Torres:	FLAMAA EDU!
+02:19:14	Thiago Torres:	ahi lo puse
+02:19:26	[TUTOR] Eduardo Neira:	que dice?
+02:19:37	Thiago Torres:	agregue a mi index
+02:19:44	Thiago Torres:	ahora me faltan los otros
+02:20:00	[TUTOR] Eduardo Neira:	el git commit -m "mensaje del commit"
+02:20:31	Thiago Torres:	index
+02:20:32	daniela soto:	master
+02:20:33	Maximiliano Robles Canosa:	master?
+02:20:36	Claudio Moreno:	master
+02:20:38	Ariel Tomolioni:	master
+02:20:40	Thiago Torres:	ah ok
+02:21:21	Thiago Torres:	ah esta bueno para organizar
+02:21:24	Claudio Moreno:	claro, versión 4 rama 8 sería no?
+02:21:27	Claudio Moreno:	4.8
+02:21:54	Thiago Torres:	Minecraft vibes
+02:22:35	Mariano Galvan:	arreglar alGITo
+02:22:36	Mariano Galvan:	we
+02:22:38	Mariano Galvan:	perdon
+02:22:42	[TUTOR] Gabriel Alejandro López Trujillo:	jaja
+02:24:01	Thiago Torres:	y los archivos nuevos donde estan? en la carpeta git>
+02:24:02	Thiago Torres:	?
+02:24:09	Claudio Moreno:	el de la rama mater es siempre el que está en producción no?
+02:24:38	[Tutor] Lucas Montero:	ahora vamos a eso thiago…
+02:24:44	Thiago Torres:	gracias ucas
+02:25:35	[Tutor]Matías Ezequiel Espinosa:	ramita
+02:26:41	Rafael Gini:	es exelente
+02:26:43	Maximiliano Robles Canosa:	si
+02:26:45	Ivan Nicolas Arce:	si
+02:26:45	Lihueel Mansilla:	isis
+02:26:45	daniela soto:	si
+02:27:21	Maximiliano Robles Canosa:	y para cambiar entre commits?
+02:27:48	Geronimo Navarro:	git add
+02:27:49	Lihueel Mansilla:	add
+02:27:49	Rafael Gini:	add
+02:27:49	Maximiliano Robles Canosa:	git add
+02:27:50	daniela soto:	add
+02:28:13	Fernando Muzaber:	nada
+02:28:23	German Ramirez:	cambia el master por el otro nombre
+02:28:26	daniela soto:	2
+02:28:27	Maximiliano Robles Canosa:	los mismos?
+02:28:30	Lihueel Mansilla:	1
+02:28:31	Ariel Tomolioni:	2
+02:28:54	Jaqueline Aletti:	como se ve eso ?
+02:28:55	Jaqueline Aletti:	git que ?
+02:29:02	[TUTORA]Solange Mac Intyre:	ctrl c
+02:29:04	daniela soto:	ctrl c
+02:29:06	Jaqueline Aletti:	graciass
+02:29:11	[TUTORA]Solange Mac Intyre:	q
+02:29:15	Seba Orozco:	no funca con Ctrl c
+02:29:20	Geronimo Navarro:	los viajes en el tiempo son reales
+02:29:44	César Medina:	Esc + q Intro
+02:30:09	Fernando Tamone:	pero no lo tomo al add, sigue en "M"
+02:30:50	Geronimo Navarro:	commit
+02:30:51	daniela soto:	commit
+02:30:54	Maximiliano Robles Canosa:	commit
+02:31:46	Maximiliano Robles Canosa:	si
+02:31:47	Rafael Gini:	si
+02:31:47	Seba Orozco:	si
+02:31:48	Lihueel Mansilla:	si
+02:32:43	daniela soto:	branch
+02:32:43	Maximiliano Robles Canosa:	checkout
+02:32:46	German Ramirez:	checkout
+02:32:52	Seba Orozco:	master
+02:33:05	Lihueel Mansilla:	volvió al estado anterior
+02:33:06	Maximiliano Robles Canosa:	desaparecio
+02:33:07	Jaqueline Aletti:	se paso
+02:33:08	Lucas Althabe:	no se guardo porque era una rama
+02:33:09	Seba Orozco:	desaparece
+02:33:14	Rafael Gini:	y como saltas al primer commit?
+02:33:20	Fernando Muzaber:	si
+02:33:20	daniela soto:	si
+02:33:21	Seba Orozco:	Si
+02:33:26	Damian lamberti:	muy bueno
+02:33:42	Geronimo Navarro:	fuaaa es sarpado
+02:33:51	Maximiliano Robles Canosa:	y como se cambia entre commit de una misma rama? o no se puede eso?
+02:34:03	[Tutor]Matías Ezequiel Espinosa:	Rafael, podes saltar a los comitts con  checkout y el numero del id del commit
+02:34:07	Damian lamberti:	cada vez que guardas lo del visual... lo haces con control s como se salva normalmente no?
+02:34:40	Francis Diaz:	donde quedan guardadas las versiones?
+02:34:55	[TUTOR] Eduardo Neira:	en git
+02:35:39	Damian lamberti:	zarpado
+02:35:44	Rafael Gini:	hermoso
+02:36:03	[Coordi]Maca Rodriguez:	cuando hacemos git init, git crea una carpeta oculta en nuestro proyecto, y ahí aloja toda la info
+02:36:18	Lucas Santiago Escuti:	aplicando esto tendríamos 100 commit jjaja
+02:36:19	[TUTOR] Eduardo Neira:	chicos como recomendación les diría que practiquen aparte de su proyecto para que comprendan bien como funciona
+02:36:32	Francis Diaz:	Esta buenísimo, osea que de esta forma no hay manera que se pierda el proyecto?
+02:36:39	[TUTOR] Eduardo Neira:	y en caso de romper algo no lo hacen sobre su proyecto
+02:36:50	Rafael Gini:	no ocupa mucho espacio?
+02:36:55	[TUTOR] Eduardo Neira:	si se corre el riesgo Francis
+02:36:56	[Coordi]Maca Rodriguez:	no rafa
+02:36:56	Maximiliano Robles Canosa:	si
+02:36:59	daniela soto:	si yo hago un cambio en una rama y después quiero sumarlo a lappal se puede?
+02:37:02	Ivan Nicolas Arce:	si
+02:38:33	[TUTORA]Solange Mac Intyre:	fusionar...
+02:38:35	[Tutor]Matías Ezequiel Espinosa:	FUUUUSION HA!!
+02:39:07	daniela soto:	servicio
+02:39:07	Fernando Muzaber:	servicios
+02:39:08	Maximiliano Robles Canosa:	servicios
+02:39:08	Mario Gonzalez:	servicios
+02:39:20	Seba Orozco:	log
+02:39:20	Mario Gonzalez:	log
+02:39:23	German Ramirez:	log
+02:39:23	Maximiliano Robles Canosa:	branch
+02:39:26	Lihueel Mansilla:	status
+02:39:28	German Ramirez:	branch
+02:39:32	Alexis Demaria:	--oneline
+02:39:35	Seba Orozco:	git branch
+02:39:45	[Coordi]Maca Rodriguez:	esta caprichosa hoy la terminal!!
+02:39:55	[Tutor]Matías Ezequiel Espinosa:	si, es por eso profe
+02:40:04	daniela soto:	checkout
+02:40:10	Tomás Vazquez:	esta clase me la voy a tener q ver devuelta XD
+02:40:24	[TUTOR] Eduardo Neira:	y practicar
+02:40:27	[TUTOR] Eduardo Neira:	es lo mejor
+02:40:33	Maximiliano Robles Canosa:	si
+02:40:43	Lihueel Mansilla:	me voy a tener que anotar todos los comandos en un cuadernito jajaja
+02:40:46	Cecilia Regis:	🤯
+02:40:55	Fernando Muzaber:	merge
+02:40:55	Seba Orozco:	merge
+02:40:57	German Ramirez:	merge servicios
+02:41:00	Seba Orozco:	servicios
+02:41:19	Seba Orozco:	si
+02:41:21	German Ramirez:	excelente
+02:41:22	Maximiliano Robles Canosa:	muy bueno
+02:41:22	Lihueel Mansilla:	sii
+02:41:22	daniela soto:	sis
+02:41:27	Geronimo Navarro:	epicoooo jajajaj re flayero
+02:41:49	[Coordi]Maca Rodriguez:	ojo que no hay vuelta si borran!!
+02:42:05	[Tutor]Matías Ezequiel Espinosa:	lo borramos, lo borramoss
+02:42:10	Perrone Tomas Agustin:	messirve porque con grid me cambio todo
+02:42:15	Francis Diaz:	No tiene papelera de reciclaje? jaja
+02:42:21	[Coordi]Maca Rodriguez:	no fran jajaj
+02:42:56	Fernando Muzaber:	te manda al frente
+02:42:58	Jhan Carlos:	Recomiendan gitkraken?
+02:43:24	Lucas Santiago Escuti:	si tenes varios commit podes trabajar de cualquiera que quieras ir modificando pero cual queda como master?? el ultimo que modificaste?
+02:43:49	[Tutor]Matías Ezequiel Espinosa:	el que mergeas Lucas
+02:44:17	Gastón Michelan:	git rebase
+02:44:23	Cristian Mostto:	el rebase es lo mismo que el pull ?
+02:45:02	Lucas Santiago Escuti:	perfecto
+02:45:19	Seba Orozco:	si
+02:45:20	Maximiliano Robles Canosa:	si
+02:45:21	Jaqueline Aletti:	sii
+02:45:23	Lihueel Mansilla:	sii
+02:45:25	Cecilia Regis:	si
+02:46:58	Cristian Mostto:	Gaston, el git rebase es lo mismo que hacer un git pull ?
+02:46:59	Maximiliano Robles Canosa:	si si
+02:47:00	Seba Orozco:	si
+02:47:02	Ivan Nicolas Arce:	si
+02:47:02	German Ramirez:	sisi
+02:47:05	Eugenio Pereira:	si
+02:47:07	Jhan Carlos:	Emm falta practicaaa
+02:47:09	Lucas Gonzalez:	No nada la verdad
+02:47:20	Lucas Santiago Escuti:	jajaja
+02:47:25	Cristian Mostto:	ah okey, pensé que con el pull también lo hacias desde las ramas locales
+02:47:25	[TUTOR] Gabriel Alejandro López Trujillo:	tooodo es práctica
+02:47:25	Geronimo Navarro:	yo la verdad lo recontra entendi
+02:47:25	Michel Ramirez:	jajaja
+02:47:29	[TUTORA]Solange Mac Intyre:	Ese resumen ténganlo a mano
+02:47:30	delfina rochman:	chino basico
+02:47:31	Lucas Gonzalez:	Tuve mil bardos y no pude seguir la clase al pie lamentablemente
+02:47:31	Lihueel Mansilla:	Se entendieron los conceptos
+02:47:34	Leonardo Sanchez:	es difícil entender sin poder seguirlo
+02:47:34	Lihueel Mansilla:	despuesa rpendo los comandos
+02:47:35	Francis Diaz:	Falta practica mas que otra cosa
+02:47:36	Thiago Torres:	se me complico seguir los pasos
+02:47:38	Giselle Goenaga:	a mi me re sirvió, nunca le pude cazar la onda sola
+02:47:39	Estanislao Elías Varela Lucius:	si, se entendió pero hay q usarlo para incorporarlo
+02:47:40	Cecilia Regis:	me costo este tema jaja pero después reveo la clase
+02:47:41	Maximiliano Robles Canosa:	lo bueno de esto es que las clases están grabadas y se pueden rever
+02:47:42	Lucas Gonzalez:	La tengo que ver de nuevo apenas termine porque me quedé casi al principio
+02:47:43	Matias Rabinovich:	yo sigo tratando de hacerlo funcionar
+02:47:44	[TUTOR] Gabriel Alejandro López Trujillo:	está clase es digna de ver e ir viendo todo y practicando poco a poco
+02:47:44	Francis Diaz:	Pero la teoría impecable
+02:47:50	Eugenio Pereira:	hay que ver las clases de vuelta
+02:47:53	Jhan Carlos:	Tengo solo una duda
+02:47:54	Gonzalo lynch:	se entendió para que sirve y los conceptos solo hay que repasar
+02:47:56	Eugenio Pereira:	se va pausando y haciendo
+02:48:00	Maximiliano Robles Canosa:	de hecho yo, cuando me pongo con el proyecto, me pongo a ver las clases viejas
+02:48:03	Geronimo Navarro:	pero es jodido saber donde estas y donde te vas moviendo y margendo xd
+02:48:08	Damian lamberti:	se re entendió
+02:48:15	[Coordi]Maca Rodriguez:	hoy no hay desafio!! Asi que aprovechen el finde para practicar mucho y tener esto aceitado para el martes porque lo vamos a necesitar!!
+02:48:26	Fernando Muzaber:	conviene trabajar en nube esto?
+02:48:41	Francis Diaz:	Lo que aprendi este 1er mes de curso fue de otro niveeel! Venimos muy bien
+02:48:42	[Coordi]Maca Rodriguez:	Eso lo vemos la próxima clase fer
+02:48:42	[TUTOR] Gabriel Alejandro López Trujillo:	Este jueguito no es tan divertido como los anteriores, pero puede utilizarlo para practicar toooodo esto de las ramas con los comandos que vimos https://learngitbranching.js.org/?NODEMO=&locale=es_ES 👈
+02:48:59	Fernando Muzaber:	Buenisimo , gracias
+02:49:14	[TUTORA]Solange Mac Intyre:	Pueden probar hacer el desafío de grid en una rama
+02:49:17	Eugenio Pereira:	Gracias por pasar esos jueguitos todas las clases ajaja
+02:49:37	[TUTOR] Gabriel Alejandro López Trujillo:	De nadis! Para eso estamos jaja 😊
+02:50:01	Tomás Vazquez:	jajaajaj ya con los dos desafíos pal martes estamos 
+02:50:04	[TUTORA]Solange Mac Intyre:	Están vigentes los de responsive.
+02:50:05	Tomás Vazquez:	xD
+02:50:17	[TUTORA]Solange Mac Intyre:	La próxima clase seguimos con esto
+02:50:56	[Tutor]Matías Ezequiel Espinosa:	El lunes hay after de GIT! 19hs!
+02:51:14	Maximiliano Robles Canosa:	yo la instalé la rainbow
+02:51:18	[TUTOR] Gabriel Alejandro López Trujillo:	Chic@s de mi tutoria, les dejé mensajito en el canal 👀
+02:51:33	César Medina:	Gitlab
+02:51:39	Lihueel Mansilla:	que significa redactar documentación?
+02:51:43	Mario Gonzalez:	el full responsive es solo en 368 y 768?
+02:52:14	[Coordi]Maca Rodriguez:	mario si, debe verse en mobile y tablet
+02:52:28	Mario Gonzalez:	Ahi va, gracias!
+02:52:58	Lihueel Mansilla:	ahhhhh joya, gracias!  lo veía mucho como requisito en LinkedIn :P me dio curiosidad
+02:53:55	Eugenio Pereira:	gracias, buen finde!
+02:53:56	Alexis Demaria:	buen finde
+02:53:56	Lihueel Mansilla:	oki, gracias!, saludos y buen finde a todos!
+02:53:57	Estanislao Elías Varela Lucius:	muchas gracias Gastón, buenas noches a todos!
+02:53:58	[TUTORA]Solange Mac Intyre:	Buen finde
+02:54:00	Fernando Muzaber:	Buen finde
+02:54:02	[Tutor] Federico Lucero:	Nos vemos!! buen finde!
+02:54:03	daniela soto:	adioss felices pascuass
+02:54:03	Damian lamberti:	muy buena clase
+02:54:03	Cecilia Regis:	gracias. nos vemoss
+02:54:04	[Coordi]Maca Rodriguez:	Nos vemos.. Buen finde
+02:54:04	[Tutor]Matías Ezequiel Espinosa:	after, lunes 19 hs!
+02:54:04	[TUTOR] Eduardo Neira:	buen finde!!!
